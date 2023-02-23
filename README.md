@@ -1,3 +1,3 @@
 # PruebaBackendPlataformal
 
-Proyecto realizado para la prueba de ingreso a MV fintech
+Proyecto realizado para la prueba de ingreso a empresa
